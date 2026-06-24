@@ -1,6 +1,6 @@
 # Retail Sales Analytics Dashboard
 Retail Sales Analytics Dashboard | Power BI, SQL, DAX, Data Modeling, KPI Reporting
-#Grocery Store Retail Sales Analysis Report
+
 
 ## Objective
 To conduct a comprehensive analysis of grocery store sales data, uncover product performance trends, evaluate the impact of promotions on sales, identify top-selling products, and deliver actionable insights through interactive Power BI dashboards to support data-driven decision-making
@@ -15,5 +15,19 @@ To conduct a comprehensive analysis of grocery store sales data, uncover product
 - Applied data visualization best practices to uncover trends, top-selling products, and key business drivers.
 
   ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/main/Retails%20Sales%20Data%20Model.jpg?raw=true)
+
+## Key Insights
+- November recorded the highest order volume, with 160,671 deliveries, accounting for 14.68% of total annual deliveries.
+- February had the lowest delivery count, with only 14,741 orders, indicating significant seasonality in customer demand.
+- Sales activity increased substantially during the final quarter of the year, with November and December generating the highest revenue levels, each exceeding $1 billion in sales.
+- Order quantity exceeded 55 million units, demonstrating strong product demand across the grocery network.
+- Sales were distributed across multiple geographic regions, highlighting a broad customer base and market presence.
+- Promotional campaigns appear to have contributed to increased sales volumes during peak months, suggesting a positive relationship between promotions and customer purchasing behavior.
+
+## Author
+
+Fadekemi Adeniran
+
+Data Analyst | Power BI | SQL | Excel | Business Intelligence
 
 

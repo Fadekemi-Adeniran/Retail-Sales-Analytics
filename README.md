@@ -18,7 +18,7 @@ To conduct a comprehensive analysis of grocery store sales data, uncover product
   ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/main/Retails%20Sales%20Data%20Model.jpg?raw=true)
   
 ## Dashboard Preview
-  ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/main/Retails%20Sales%20Data%20Model.jpg?raw=true)
+  ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/859d3934933139075c3106c5f5a9bc60ed26508d/Retails%20Sales%20Analytics.jpg)
 
 ## Key Insights
 - **November recorded the highest order volume**, with 160,671 deliveries, accounting for **14.68%** of total annual deliveries.

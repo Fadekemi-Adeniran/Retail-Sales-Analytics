@@ -43,6 +43,7 @@ Data Analyst | Power BI | SQL | Excel | Business Intelligence
 ## Connect With Me
 
 📍 [Linkedin Profile](https://www.linkedin.com/in/fadekemiadeniran/)
+
 💻 [GitHub Profile](https://github.com/Fadekemi-Adeniran)
 
 

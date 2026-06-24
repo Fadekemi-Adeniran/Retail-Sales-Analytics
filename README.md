@@ -1,5 +1,5 @@
 # Retail Sales Analytics Dashboard
-Retail Sales Analytics Dashboard | Power BI, SQL, DAX, Data Modeling, KPI Reporting
+Interactive Power BI dashboard analyzing grocery store sales, product performance, promotions, and customer purchasing trends.
 
 
 ## Objective
@@ -28,9 +28,15 @@ To conduct a comprehensive analysis of grocery store sales data, uncover product
 - Sales were distributed across multiple geographic regions, highlighting a broad customer base and market presence.
 - Promotional campaigns appear to have contributed to increased sales volumes during peak months, suggesting a positive relationship between promotions and customer purchasing behavior.
 
+## Business Impact
+- Identified peak sales periods to support inventory planning.
+- Highlighted high-performing products and categories.
+- Evaluated the effectiveness of promotional campaigns.
+- Enabled data-driven decision-making through interactive reporting
+
 ## Author
 
-Fadekemi Adeniran
+**Fadekemi Adeniran**
 
 Data Analyst | Power BI | SQL | Excel | Business Intelligence
 

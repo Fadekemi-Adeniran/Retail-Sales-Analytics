@@ -30,6 +30,12 @@ Fadekemi Adeniran
 
 Data Analyst | Power BI | SQL | Excel | Business Intelligence
 
-[Linkedin](https://www.linkedin.com/in/fadekemiadeniran/)
+## Connect With Me
+
+📍 [Linkedin Profile](https://www.linkedin.com/in/fadekemiadeniran/)
+
+
+
+
 
 

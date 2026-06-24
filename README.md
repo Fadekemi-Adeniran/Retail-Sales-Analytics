@@ -27,7 +27,9 @@ To conduct a comprehensive analysis of grocery store sales data, uncover product
 ## Author
 
 Fadekemi Adeniran
+
 Data Analyst | Power BI | SQL | Excel | Business Intelligence
-https://www.linkedin.com/in/fadekemiadeniran/
+
+[Linkedin](https://www.linkedin.com/in/fadekemiadeniran/)
 
 

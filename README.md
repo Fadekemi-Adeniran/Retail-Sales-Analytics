@@ -14,6 +14,10 @@ To conduct a comprehensive analysis of grocery store sales data, uncover product
 - Designed intuitive dashboards with a storytelling approach, enabling seamless navigation from summary KPIs to detailed insights.
 - Applied data visualization best practices to uncover trends, top-selling products, and key business drivers.
 
+## Data Model
+  ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/main/Retails%20Sales%20Data%20Model.jpg?raw=true)
+  
+## Dashboard Preview
   ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/main/Retails%20Sales%20Data%20Model.jpg?raw=true)
 
 ## Key Insights
